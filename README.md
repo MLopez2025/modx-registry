@@ -1,5 +1,8 @@
 # modx-registry
 Public registry and pre-launch disclosures for the MODX sovereign financial, governance, and security platform.
+> **Authoritative Public Disclosure Repository**  
+> This repository serves as the canonical public record for MODX pre-launch infrastructure and disclosures.
+
 # MODX Public Registry
 
 This repository serves as the official public registry and disclosure record for the MODX sovereign financial, governance, and security platform.
