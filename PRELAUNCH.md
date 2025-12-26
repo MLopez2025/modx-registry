@@ -3,7 +3,8 @@
 **Platform:** MODX Sovereign Financial & Governance Infrastructure  
 **Status:** Pre-Launch — Core Infrastructure Live  
 **Network:** Polygon (Mainnet)  
-**Effective Date:** December 2025 
+**Effective Date:** December 2025
+Last Updated: December 2025
 
 
 ---
