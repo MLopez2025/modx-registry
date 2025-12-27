@@ -53,7 +53,10 @@ This repository is provided for informational and transparency purposes only.
 Nothing herein constitutes an offer, solicitation, or investment advice.
 
 Intellectual Property Notice
-Certain technologies described herein are protected by one or more U.S. patent applications, including U.S. Patent Application No. 19/433,003, filed with the United States Patent and Trademark Office. Additional applications may be pending. 
+
+Certain technologies, systems, and methodologies described on this website are protected by one or more United States patent applications filed with the U.S. Patent and Trademark Office. Additional patent applications may be pending.
+
+All trademarks, service marks, proprietary frameworks, governance structures, and related intellectual property are owned by or licensed to AGH Trust or its affiliated entities. Unauthorized use, reproduction, or distribution is strictly prohibited. 
 
 ## Registry Files
 - [Pre-Launch Disclosure](./PRELAUNCH.md)
