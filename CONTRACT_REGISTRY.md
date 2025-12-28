@@ -31,15 +31,29 @@ It is maintained for transparency and public reference.
 
 ---
 
-### MODUSDs ETF — POST-LAUNCH ⏭
-- **Status:** Deployment and verification scheduled post-launch
-- **Purpose:** MODUSDs-backed ETF token
+### MODUSDsETF — PRE-LAUNCH (PROVISIONAL) ⏳
+- **Contract Address:**  
+  `0x550787199C130f3F92581852d022e40966878F82`
+- **Status:** Deployed on Polygon; verification pending
+- **Classification:** Pre-Launch Infrastructure (Provisional)
+- **Execution:** Locked
+- **Purpose:** MODUSDs-backed synthetic ETF token
+
+> This contract is disclosed as part of pre-launch infrastructure.  
+> No issuance, settlement, or trading functionality is enabled prior to post-launch governance authorization.
 
 ---
 
-### MODXINVST ETF — POST-LAUNCH ⏭
-- **Status:** Deployment and verification scheduled post-launch
+### MODXINVSTETF — PRE-LAUNCH (PROVISIONAL) ⏳
+- **Contract Address:**  
+  `0x86145e52F5ca2FC59043715493b8119aFBE6bFac`
+- **Status:** Deployed on Polygon; verification pending
+- **Classification:** Pre-Launch Infrastructure (Provisional)
+- **Execution:** Locked
 - **Purpose:** MODX investment ETF token
+
+> This contract is disclosed for transparency and audit continuity.  
+> Verification and execution authorization occur post-launch under governance control.
 
 ---
 
